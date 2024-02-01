@@ -1,9 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: Hevon Gordon
-  email: hevongordon.util@gmail.com
+  name: hevon
 spec:
+  profile:
+    displayName: Hevon Gordon
+    email: hevongordon.util@gmail.com
   memberOf: [admin]
 ---
 # https://backstage.io/docs/features/software-catalog/descriptor-format#kind-group
