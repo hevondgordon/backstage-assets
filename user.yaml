@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: hevon
+  name: hevongordon.util
 spec:
   profile:
     displayName: Hevon Gordon
